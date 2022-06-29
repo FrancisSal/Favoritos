@@ -190,10 +190,6 @@ https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?Playli
 
 
 
-#EXTINF:-1 tvg-name="SYFY" tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png" group-title="Premium", SYFY
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=XOuNaU2ksO7S4vcwRr00og&expires=1656537837&ip=190.215.148.146
-
-
 #EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Otros", PlanetaTV Movies * | CL
 https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8?PlaylistM3UCL
 
